@@ -1,1 +1,1 @@
-ACID: str = "H2SO4"
+ACID: str = "HCL"
